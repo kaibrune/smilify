@@ -3,7 +3,7 @@
   "version": "1.0",
   "manifest_version": 3,
   "description": "An extension that reminds you to place your Amazon order via Amazon Smile.",
-  "homepage_url": "https://kaibrune.github.io/",
+  "homepage_url": "https://github.com/kaibrune/smilify/",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
@@ -17,15 +17,15 @@
   "content_scripts": [
     {
       "matches": [
-        "https://*.amazon.de/*",
-        "https://*.amazon.fr/*",
-        "https://*.amazon.nl/*",
-        "https://*.amazon.com/*",
-        "https://*.amazon.es/*",
-        "https://*.amazon.it/*",
-        "https://*.amazon.co.uk/*",
-        "https://*.amazon.pl/*",
-        "https://*.amazon.se/*"
+        "https://*.amazon.de/gp/buy/spc/handlers/display.html*",
+        "https://*.amazon.fr/gp/buy/spc/handlers/display.html*",
+        "https://*.amazon.nl/gp/buy/spc/handlers/display.html*",
+        "https://*.amazon.com/gp/buy/spc/handlers/display.html*",
+        "https://*.amazon.es/gp/buy/spc/handlers/display.html*",
+        "https://*.amazon.it/gp/buy/spc/handlers/display.html*",
+        "https://*.amazon.co.uk/gp/buy/spc/handlers/display.html*",
+        "https://*.amazon.pl/gp/buy/spc/handlers/display.html*",
+        "https://*.amazon.se/gp/buy/spc/handlers/display.html*"
       ],
       "js": ["app.js"]
     }
