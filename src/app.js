@@ -12,7 +12,7 @@ if (
     type: "notification",
     options: {
       title: "Do you want to smilify this order?",
-      message: "Click here to convert this into a smile order.",
+      message: "Click here to get redirected to Amazon Smile to place this order.",
       iconUrl: "icons/icon128.png",
       type: "basic",
     },
