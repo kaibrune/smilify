@@ -2,7 +2,7 @@
 
 # smilify - Amazon Smile Reminder Extension
 
-Amazon makes it easy to forget to complete your order with Amazon Smile to support your favorite NGO. With this browser extension you will be reminded in the check-out to complete your order via Amazon Smile. Just click on the notification in the check-out and you will be redirected automatically. Simple, fast and easy. 
+Amazon makes it easy to forget to place your order via Amazon Smile to support your favorite NGO. With this browser extension you will be reminded in the check-out to complete your order via Amazon Smile. Just click on the notification in the check-out and you will be redirected automatically. Simple, fast and easy. 
 
 ## 🔥 Features
 
