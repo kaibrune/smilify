@@ -10,6 +10,10 @@ Amazon makes it easy to forget to complete your order with Amazon Smile to suppo
 - [x] one-click redirect
 - [x] lightweight and simple
 
+## 📥 Download 
+
+Download the current release [here](https://github.com/kaibrune/smilify/releases/tag/stable). Unpack the .zip and proceed with the installations steps below.
+
 ## 🧑‍💻 Installation
 
 To install this Chrome extension go to "Window" ➜ "Extension" ➜ toggle "Developer mode" in the right corner ➜ drag and drop the unpacked "smilify" folder into the window ➜ done!
