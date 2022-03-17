@@ -16,7 +16,7 @@ Download the current release [here](https://github.com/kaibrune/smilify/releases
 
 ## 🧑‍💻 Installation
 
-To install this Chrome extension go to "Window" ➜ "Extension" ➜ toggle "Developer mode" in the right corner ➜ drag and drop the unpacked "smilify" folder into the window or choose "Load unpacked" and navigate to the "smilify" folder ➜ done!
+To install this chromium extension go to "Window" ➜ "Extension" ➜ toggle "Developer mode" in the right corner ➜ drag and drop the unpacked "smilify" folder into the window or choose "Load unpacked" and navigate to the "smilify" folder ➜ done!
 
 ## 🤝 Compatibility
 
