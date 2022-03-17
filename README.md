@@ -32,6 +32,8 @@ This extension works in every Chromium-based browser (Chrome/Brave/Edge/Opera/Vi
 - amazon.se
 - amazon.pl
 
+Please notice: You need to be registered for the Amazon Smile program once first. Please visit [Amazon Smile](https://smile.amazon.de) to sign-up. 
+
 ## 💌 Feedback
 
 You got any questions or improvements? Feel free to submit a pull-request. Cheers! 
