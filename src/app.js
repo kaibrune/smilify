@@ -1,6 +1,5 @@
 var pathname = window.location.pathname;
 var hostname = window.location.hostname;
-var date = "noti" + Date.now();
 
 if (
   pathname == "/gp/buy/spc/handlers/display.html" &&
