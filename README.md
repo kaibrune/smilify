@@ -16,7 +16,7 @@ Amazon makes it easy to forget to place your order via Amazon Smile to support y
 
 Download the extension via the Chrome Web Store. Works in every Chromium-based browser (Chrome/Brave/Edge/Opera/Vivaldi).
 
-<a href="https://chrome.google.com/webstore/detail/cecimedifgklkfclkgncglnmfcmlebmh"><img src="/demo/demo_btn_smilify.jpg" width="45%" alt="smilify_btn"/></a>
+<a href="https://chrome.google.com/webstore/detail/cecimedifgklkfclkgncglnmfcmlebmh"><img src="/demo/demo_btn_smilify.jpg" width="35%" alt="smilify_btn"/></a>
 
 ### Method 2: Manual installation
 
